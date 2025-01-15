@@ -13,6 +13,7 @@ C:\Users\Lenovo\MovieApp\obj\Debug\net8.0\MovieApp.csproj.CoreCompileInputs.cach
 C:\Users\Lenovo\MovieApp\obj\Debug\net8.0\MovieApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lenovo\MovieApp\obj\Debug\net8.0\MovieApp.RazorAssemblyInfo.cache
 C:\Users\Lenovo\MovieApp\obj\Debug\net8.0\MovieApp.RazorAssemblyInfo.cs
+C:\Users\Lenovo\MovieApp\obj\Debug\net8.0\MovieApp.sourcelink.json
 C:\Users\Lenovo\MovieApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Lenovo\MovieApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Lenovo\MovieApp\obj\Debug\net8.0\staticwebassets\msbuild.MovieApp.Microsoft.AspNetCore.StaticWebAssets.props
