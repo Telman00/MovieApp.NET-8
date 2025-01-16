@@ -1,5 +1,7 @@
 C:\Users\Lenovo\MovieApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Lenovo\MovieApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Lenovo\MovieApp\bin\Debug\net8.0\package-lock.json
+C:\Users\Lenovo\MovieApp\bin\Debug\net8.0\package.json
 C:\Users\Lenovo\MovieApp\bin\Debug\net8.0\MovieApp.staticwebassets.runtime.json
 C:\Users\Lenovo\MovieApp\bin\Debug\net8.0\MovieApp.exe
 C:\Users\Lenovo\MovieApp\bin\Debug\net8.0\MovieApp.deps.json
