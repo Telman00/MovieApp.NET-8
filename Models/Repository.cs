@@ -6,7 +6,7 @@ namespace MovieApp.Models
 {
     public static class Repository
     {
-        private static List<Movie> _movies = null;
+        private static List<Movie> _movies = new List<Movie>();
 
         static Repository()
         {
@@ -31,9 +31,9 @@ namespace MovieApp.Models
             _movies.Add(entity);
         }
 
-        public static Movie GetById(int id)
-        {
-            return _movies.FirstOrDefault(i => i.Id == id);
-        }
+        public static Movie? GetById(int id)
+{
+    return _movies.FirstOrDefault(i => i.Id == id);
+}
     }
 }

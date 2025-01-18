@@ -26,7 +26,7 @@ app.UseStaticFiles(new StaticFileOptions
 {
     FileProvider = new PhysicalFileProvider(
         Path.Combine(Directory.GetCurrentDirectory(), "node_modules")),
-    RequestPath = "/modules"
+    RequestPath = "/node_modules"
 });
 
 app.UseRouting();
