@@ -1,14 +1,15 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using MovieApp.Models;
 
-namespace MovieApp.Models
+namespace MovieApp.Data
 {
-    public static class Repository
+    public static class ProductRepository
     {
         private static List<Movie> _movies = new List<Movie>();
 
-        static Repository()
+        static ProductRepository()
         {
             _movies = new List<Movie>()
 {
